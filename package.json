@@ -3,12 +3,12 @@
   "title": "GaoXiaoHui Blog",
   "author": "GaoXiaoHui <gao746700783@163.com>",
   "version": "1.0.0",
-  "homepage": "http://GaoXiaoHui.github.io",
+  "homepage": "http://gaoxiaohui.me",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gao746700783/gao746700783.github.io"
+    "url": "https://github.com/gao746700783/gaoxiaohui.me"
   },
-  "bugs": "https://github.com/gao746700783/gao746700783.github.io/issues",
+  "bugs": "https://github.com/gao746700783/gaoxiaohui.me/issues",
   "devDependencies": {
     "grunt": "~0.4.5",
     "grunt-banner": "~0.2.3",
