@@ -1,8 +1,9 @@
-#Hux Blog
+#GaoXiaoHui Blog
 
-###[View Live Hux Blog &rarr;](http://huxpro.github.io)
+Copy from Hux Blog
+###[View Live GaoXiaoHui Blog &rarr;](http://gaoxiaohui.me)
 
-![](http://huangxuan.me/img/blog-desktop.jpg)
+![](http://gaoxiaohui.me/img/blog-desktop.jpg)
 
 
 
